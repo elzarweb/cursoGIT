@@ -1,0 +1,6 @@
+logs/
+bin/
+
+config/databases.java
+
+*.class
